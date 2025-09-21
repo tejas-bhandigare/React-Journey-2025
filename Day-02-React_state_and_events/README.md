@@ -2,9 +2,9 @@
 📘 Day 2 — React State & Events
 
 🎯 Goals -
-Understand state (useState hook).
-Handle events (onClick, onChange).
-Learn controlled components (form inputs with React).
+  I. Understand state (useState hook).
+ II. Handle events (onClick, onChange).
+III. Learn controlled components (form inputs with React).
 
 Build:
 1.Counter App 🧮
