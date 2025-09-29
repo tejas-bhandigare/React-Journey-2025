@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 1000,
+    "description": "High-performance laptop for work and play.",
+    "image": "https://via.placeholder.com/200"
+  },
+  {
+    "id": 2,
+    "name": "Phone",
+    "price": 600,
+    "description": "Smartphone with excellent camera and battery life.",
+    "image": "https://via.placeholder.com/200"
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "price": 150,
+    "description": "Noise-cancelling wireless headphones.",
+    "image": "https://via.placeholder.com/200"
+  }
+]
